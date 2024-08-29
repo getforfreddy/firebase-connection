@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538646909824",
+    "project_id": "fir-connection-b645a",
+    "storage_bucket": "fir-connection-b645a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538646909824:android:a790a993170f9568846765",
+        "android_client_info": {
+          "package_name": "com.spectrum.firebase_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuOvfUXBS37P6xcFu7_aHGAMgT3orctQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
